@@ -1,6 +1,6 @@
 # PowerBI-SalesDashboard
 
-📊 A Sales and Profit Analytics Dashboard built with **Power BI** to provide actionable insights across regions, categories, and customer segments.
+A Sales and Profit Analytics Dashboard built with **Power BI** to provide actionable insights across regions, categories, and customer segments.
 
 ---
 
