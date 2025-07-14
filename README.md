@@ -36,7 +36,7 @@ This interactive dashboard includes:
 
 ## 📸 Screenshots
 
-> You can insert your own screenshots here like this:
+![Dashboard Overview](images/PowerBI-SalesDashboard-Overview.png)
 
 
 ---
