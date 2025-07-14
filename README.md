@@ -36,7 +36,7 @@ This interactive dashboard includes:
 
 ## 📸 Screenshots
 
-![Dashboard Overview](images/PowerBI-SalesDashboard-Overview.png)
+![Dashboard Overview](images/PowerBI-SalesDashboard-Overview.jpg)
 
 
 ---
